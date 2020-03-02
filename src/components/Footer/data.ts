@@ -17,7 +17,7 @@ export const linksGroup1 = [
   },
   {
     text: 'So funktioniert`s',
-    link: '/so-funktioniert`s'
+    link: '/so-funktioniert-s'
   }
 ]
 
